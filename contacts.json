@@ -1,135 +1,11 @@
 [
   {
-    "call_sign" : "VE6DZ",
-    "cont_date" : "8/15/2023"
+    "call_sign" : "KD7AAT",
+    "cont_date" : "2/8/2023"
   },
   {
-    "call_sign" : "KB4FHP",
-    "cont_date" : "8/28/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "11/12/2024"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KI5CHB",
-    "cont_date" : "3/25/2025"
-  },
-  {
-    "call_sign" : "KC2MMB",
-    "cont_date" : "2/25/2023"
-  },
-  {
-    "call_sign" : "KC2MMB",
-    "cont_date" : "2/27/2023"
-  },
-  {
-    "call_sign" : "W7BTM",
-    "cont_date" : "6/12/2023"
-  },
-  {
-    "call_sign" : "KZ4JP",
-    "cont_date" : "10/6/2024"
-  },
-  {
-    "call_sign" : "KZ4JP",
-    "cont_date" : "10/6/2024"
-  },
-  {
-    "call_sign" : "W9SBA",
-    "cont_date" : "2/6/2023"
-  },
-  {
-    "call_sign" : "W9SBA",
-    "cont_date" : "3/7/2023"
-  },
-  {
-    "call_sign" : "W9SBA",
-    "cont_date" : "3/16/2023"
-  },
-  {
-    "call_sign" : "W9SBA",
-    "cont_date" : "4/5/2024"
-  },
-  {
-    "call_sign" : "W9SBA",
-    "cont_date" : "1/17/2023"
-  },
-  {
-    "call_sign" : "AC7II",
-    "cont_date" : "5/29/2024"
-  },
-  {
-    "call_sign" : "KC4YCH",
-    "cont_date" : "3/31/2025"
-  },
-  {
-    "call_sign" : "G4BFS",
-    "cont_date" : "10/15/2024"
-  },
-  {
-    "call_sign" : "KR1P",
-    "cont_date" : "2/13/2023"
-  },
-  {
-    "call_sign" : "KR1P",
-    "cont_date" : "5/9/2023"
-  },
-  {
-    "call_sign" : "WB7TUJ",
-    "cont_date" : "2/7/2023"
-  },
-  {
-    "call_sign" : "N9LYI",
-    "cont_date" : "2/4/2025"
-  },
-  {
-    "call_sign" : "KA1GWL",
-    "cont_date" : "1/12/2026"
-  },
-  {
-    "call_sign" : "KE8GIM",
-    "cont_date" : "5/13/2025"
-  },
-  {
-    "call_sign" : "KQ1USA",
-    "cont_date" : "5/18/2025"
-  },
-  {
-    "call_sign" : "AG7YV",
-    "cont_date" : "2/6/2023"
-  },
-  {
-    "call_sign" : "K7PN",
-    "cont_date" : "5/29/2024"
+    "call_sign" : "KD7AAT",
+    "cont_date" : "2/28/2023"
   },
   {
     "call_sign" : "KC0UKA",
@@ -144,8 +20,32 @@
     "cont_date" : "5/30/2025"
   },
   {
+    "call_sign" : "W3LR",
+    "cont_date" : "5/6/2024"
+  },
+  {
+    "call_sign" : "WB4GUI",
+    "cont_date" : "2/21/2025"
+  },
+  {
+    "call_sign" : "G1KEA",
+    "cont_date" : "11/13/2024"
+  },
+  {
+    "call_sign" : "AB3YC",
+    "cont_date" : "2/19/2023"
+  },
+  {
     "call_sign" : "W7CHP",
     "cont_date" : "11/11/2024"
+  },
+  {
+    "call_sign" : "N9LYI",
+    "cont_date" : "2/4/2025"
+  },
+  {
+    "call_sign" : "KC4YCH",
+    "cont_date" : "3/31/2025"
   },
   {
     "call_sign" : "K7GND",
@@ -160,32 +60,16 @@
     "cont_date" : "4/14/2025"
   },
   {
-    "call_sign" : "WA7FDR",
-    "cont_date" : "2/13/2023"
+    "call_sign" : "WB7TUJ",
+    "cont_date" : "2/7/2023"
   },
   {
-    "call_sign" : "G1KEA",
-    "cont_date" : "11/13/2024"
+    "cont_date" : "2/25/2023",
+    "call_sign" : "KC2MMB"
   },
   {
-    "call_sign" : "AA1HR",
-    "cont_date" : "2/24/2023"
-  },
-  {
-    "call_sign" : "KN0JI",
-    "cont_date" : "5/16/2023"
-  },
-  {
-    "call_sign" : "WB4GUI",
-    "cont_date" : "2/21/2025"
-  },
-  {
-    "cont_date" : "5/6/2024",
-    "call_sign" : "KQ4KJV"
-  },
-  {
-    "cont_date" : "5/30/2024",
-    "call_sign" : "KQ4KJV"
+    "cont_date" : "2/27/2023",
+    "call_sign" : "KC2MMB"
   },
   {
     "cont_date" : "5/25/2023",
@@ -200,79 +84,187 @@
     "call_sign" : "N2RON"
   },
   {
-    "cont_date" : "1/14/2026",
-    "call_sign" : "KK4TTI"
+    "cont_date" : "2/13/2023",
+    "call_sign" : "WA7FDR"
   },
   {
-    "cont_date" : "2/19/2023",
-    "call_sign" : "AB3YC"
+    "cont_date" : "4/5/2024",
+    "call_sign" : "W9SBA"
+  },
+  {
+    "cont_date" : "3/16/2023",
+    "call_sign" : "W9SBA"
+  },
+  {
+    "cont_date" : "3/7/2023",
+    "call_sign" : "W9SBA"
+  },
+  {
+    "cont_date" : "2/6/2023",
+    "call_sign" : "W9SBA"
+  },
+  {
+    "cont_date" : "5/6/2024",
+    "call_sign" : "KQ4KJV"
+  },
+  {
+    "cont_date" : "5/30/2024",
+    "call_sign" : "KQ4KJV"
   },
   {
     "cont_date" : "9/2/2025",
     "call_sign" : "KB4WGA "
   },
   {
-    "cont_date" : "1/28/2023",
-    "call_sign" : "KL7ET"
+    "cont_date" : "2/24/2023",
+    "call_sign" : "AA1HR"
   },
   {
-    "cont_date" : "4/23/2024",
-    "call_sign" : "K4NRD"
+    "cont_date" : "10/15/2024",
+    "call_sign" : "G4BFS"
   },
   {
-    "cont_date" : "5/6/2024",
-    "call_sign" : "W3LR"
+    "cont_date" : "10/6/2024",
+    "call_sign" : "KZ4JP"
   },
   {
-    "cont_date" : "2/7/2023",
-    "call_sign" : "NA2B"
-  },
-  {
-    "cont_date" : "2/25/2023",
-    "call_sign" : "NA2B"
-  },
-  {
-    "cont_date" : "5/31/2024",
-    "call_sign" : "KE7BMG"
-  },
-  {
-    "cont_date" : "10/15/2025",
-    "call_sign" : "WQ9V"
-  },
-  {
-    "cont_date" : "8/12/2024",
-    "call_sign" : "KJ7HJB"
-  },
-  {
-    "cont_date" : "1/12/2026",
-    "call_sign" : "KB1AWZ"
-  },
-  {
-    "cont_date" : "8/1/2024",
-    "call_sign" : "AI3W"
-  },
-  {
-    "cont_date" : "2/8/2023",
-    "call_sign" : "KD7AAT"
-  },
-  {
-    "cont_date" : "2/28/2023",
-    "call_sign" : "KD7AAT"
-  },
-  {
-    "cont_date" : "5/30/2023",
-    "call_sign" : "KK7JEV "
+    "cont_date" : "5/29/2024",
+    "call_sign" : "K7PN"
   },
   {
     "cont_date" : "10/15/2024",
     "call_sign" : "EI2HI"
   },
   {
-    "cont_date" : "4/30/2024",
-    "call_sign" : "KQ4OEI"
+    "cont_date" : "4/23/2024",
+    "call_sign" : "K4NRD"
   },
   {
-    "cont_date" : "8/24/2025",
-    "call_sign" : "K6USY"
+    "cont_date" : "11/12/2024",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "3/25/2025",
+    "call_sign" : "KI5CHB"
+  },
+  {
+    "cont_date" : "5/18/2025",
+    "call_sign" : "KQ1USA"
+  },
+  {
+    "cont_date" : "2/13/2023",
+    "call_sign" : "KR1P"
+  },
+  {
+    "cont_date" : "5/9/2023",
+    "call_sign" : "KR1P"
+  },
+  {
+    "cont_date" : "5/16/2023",
+    "call_sign" : "KN0JI"
+  },
+  {
+    "call_sign" : "W7BTM",
+    "cont_date" : "6/12/2023"
+  },
+  {
+    "call_sign" : "AI3W",
+    "cont_date" : "8/1/2024"
+  },
+  {
+    "call_sign" : "KA1GWL",
+    "cont_date" : "1/12/2026"
+  },
+  {
+    "call_sign" : "KJ7HJB",
+    "cont_date" : "8/12/2024"
+  },
+  {
+    "call_sign" : "NA2B",
+    "cont_date" : "2/7/2023"
+  },
+  {
+    "call_sign" : "NA2B",
+    "cont_date" : "2/25/2023"
+  },
+  {
+    "call_sign" : "KK4TTI",
+    "cont_date" : "1/14/2026"
+  },
+  {
+    "call_sign" : "KE7BMG",
+    "cont_date" : "5/31/2024"
+  },
+  {
+    "call_sign" : "AG7YV",
+    "cont_date" : "2/6/2023"
+  },
+  {
+    "call_sign" : "WQ9V",
+    "cont_date" : "10/15/2025"
+  },
+  {
+    "call_sign" : "KB1AWZ",
+    "cont_date" : "1/12/2026"
+  },
+  {
+    "call_sign" : "AC7II",
+    "cont_date" : "5/29/2024"
+  },
+  {
+    "call_sign" : "KB4FHP",
+    "cont_date" : "8/28/2025"
+  },
+  {
+    "call_sign" : "KL7ET",
+    "cont_date" : "1/28/2023"
+  },
+  {
+    "call_sign" : "KE8GIM",
+    "cont_date" : "5/13/2025"
+  },
+  {
+    "call_sign" : "VE6DZ",
+    "cont_date" : "8/15/2023"
+  },
+  {
+    "call_sign" : "K6USY",
+    "cont_date" : "8/24/2025"
+  },
+  {
+    "call_sign" : "KK7JEV ",
+    "cont_date" : "5/30/2023"
+  },
+  {
+    "call_sign" : "KQ4OEI",
+    "cont_date" : "4/30/2024"
   }
 ]
